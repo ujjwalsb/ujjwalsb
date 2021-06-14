@@ -1,10 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal Singh Baghel, a Software Engineer, Entrupreneurship Enthusisast & Writer (To be)
 
 <br />
-
-Hi, I'm Ujjwal Singh Baghel, a Software Engineer, Entrupreneurship Enthusisast & Writer (To be)
 
   <img align="right" alt="GIF" src="https://github.com/ujjwalsb/ujjwalsb/blob/master/code.gif?raw=true" width="375" height="240" />
   
