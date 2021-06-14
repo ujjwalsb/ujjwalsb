@@ -9,7 +9,7 @@
   <img align="right" alt="GIF" src="https://github.com/ujjwalsb/ujjwalsb/blob/master/code.gif?raw=true" width="375" height="240" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [ujjwalsb23@gmail.com](mailto:ujjwalsb23@gmail.com);
+- 📫 How to reach me: [ujjwalsingh15@gmail.com](mailto:ujjwalsingh15@gmail.com);
 - 👯 Looking to Collaborate & Contribute
 
 
