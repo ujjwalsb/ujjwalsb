@@ -4,7 +4,7 @@
 
 <br />
 
-#### I'm Ujjwal Singh Baghel, a Software Engineer, Entrupreneurship Enthusisast & a Writer (To be)
+#### I'm Ujjwal Singh Baghel, a Software Engineer, Entrepreneurship Enthusisast & a Writer (To be)
 
   <img align="right" alt="GIF" src="https://github.com/ujjwalsb/ujjwalsb/blob/master/code.gif?raw=true" width="375" height="240" />
   
